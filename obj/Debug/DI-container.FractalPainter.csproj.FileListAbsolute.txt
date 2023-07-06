@@ -1,0 +1,17 @@
+C:\Users\MagicBook\Downloads\DITask\bin\Debug\app.settings
+C:\Users\MagicBook\Downloads\DITask\bin\Debug\FractalPainter.exe.config
+C:\Users\MagicBook\Downloads\DITask\bin\Debug\FractalPainter.exe
+C:\Users\MagicBook\Downloads\DITask\bin\Debug\FractalPainter.pdb
+C:\Users\MagicBook\Downloads\DITask\bin\Debug\Castle.Core.dll
+C:\Users\MagicBook\Downloads\DITask\bin\Debug\FluentAssertions.Core.dll
+C:\Users\MagicBook\Downloads\DITask\bin\Debug\FluentAssertions.dll
+C:\Users\MagicBook\Downloads\DITask\bin\Debug\Ninject.dll
+C:\Users\MagicBook\Downloads\DITask\bin\Debug\Ninject.Extensions.Conventions.dll
+C:\Users\MagicBook\Downloads\DITask\bin\Debug\Ninject.Extensions.Factory.dll
+C:\Users\MagicBook\Downloads\DITask\bin\Debug\nunit.framework.dll
+C:\Users\MagicBook\Downloads\DITask\obj\Debug\DI-container.FractalPainter.csproj.AssemblyReference.cache
+C:\Users\MagicBook\Downloads\DITask\obj\Debug\DI-container.FractalPainter.csproj.SuggestedBindingRedirects.cache
+C:\Users\MagicBook\Downloads\DITask\obj\Debug\DI-container.FractalPainter.csproj.CoreCompileInputs.cache
+C:\Users\MagicBook\Downloads\DITask\obj\Debug\DI-container.FractalPainter.csproj.CopyComplete
+C:\Users\MagicBook\Downloads\DITask\obj\Debug\FractalPainter.exe
+C:\Users\MagicBook\Downloads\DITask\obj\Debug\FractalPainter.pdb
